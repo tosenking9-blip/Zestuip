@@ -1,0 +1,172 @@
+[
+  {
+    "username": "Zesty",
+    "password_hash": "pbkdf2$210000$ni8j56aahibOPdb9I7qiDQ==$8iIXHuyuNd/yQBPPgQqBTPQCh2llXodqLomnc1uaGdY=",
+    "role": "admin",
+    "access_type": "admin",
+    "created_at": 1790090956,
+    "expires_at": 0,
+    "banned": false,
+    "auth_version": 3,
+    "slots": 999999
+  },
+  {
+    "username": "Sulav",
+    "password_hash": "pbkdf2$210000$kL+q6Ena9gj6NUzVkXgtog==$F7m0nj/ExmwRsN+Lsb3h9xoCSBu5T0pMJ0bBxCi8FXQ=",
+    "role": "user",
+    "access_type": "levelup",
+    "created_at": 1790102614,
+    "expires_at": 1818701014,
+    "banned": false,
+    "auth_version": 1,
+    "level_up_ids": [
+      {
+        "uid": "7908444148",
+        "password": "6CB718C0F2869CBC75D4E128DEE9BAB2AF53FF946AC65AFAD2CAE06F9DDC64AB",
+        "mode": "mix"
+      }
+    ],
+    "slots": 1000
+  },
+  {
+    "username": "Chhetri",
+    "password_hash": "pbkdf2$210000$JebOGfEqxcPZ2pjBj3OG5A==$CR8Y3694FkNUXMAXuI9+A51/lz89WHtlhtUlmwkg90Q=",
+    "role": "user",
+    "access_type": "levelup",
+    "created_at": 1790104405,
+    "expires_at": 1792696405,
+    "banned": false,
+    "auth_version": 1,
+    "level_up_ids": []
+  },
+  {
+    "username": "Op",
+    "password_hash": "pbkdf2$210000$qMT4cIUoJcCJebAgOui4hA==$h96EPP1U+DmXSGD1VP3X0ZhubbGP7DFLQL6sCKqDOnM=",
+    "role": "admin",
+    "access_type": "admin",
+    "created_at": 1790111424,
+    "expires_at": 1790197824,
+    "banned": false,
+    "auth_version": 1
+  },
+  {
+    "username": "Sagar",
+    "password_hash": "pbkdf2$210000$2BjsWIUtnYWki2G71w/9/Q==$PaVLThCyoPA2agr/aZcfSTg9G0Gf8NxMQJQfbLat0Qw=",
+    "role": "user",
+    "access_type": "levelup",
+    "created_at": 1790133380,
+    "expires_at": 1790219780,
+    "banned": false,
+    "auth_version": 1,
+    "level_up_ids": [
+      {
+        "uid": "5156615666",
+        "password": "SAGARRRRRR_JAHID_X_EMPIRE_6W5UK2Yp"
+      },
+      {
+        "uid": "5156616129",
+        "password": "SAGARRRRRR_JAHID_X_EMPIRE_sJZk7K9k"
+      },
+      {
+        "uid": "5156818016",
+        "password": "SAGARX2333_JAHID_X_EMPIRE_804i1VPd"
+      }
+    ]
+  },
+  {
+    "username": "Shinchan",
+    "password_hash": "pbkdf2$210000$U+K3bq+Sv6cqDMmx2tWK3w==$7bVB5f2una29TiONuVQ5Mvns9cL9nJzLkIX/cb21txE=",
+    "role": "user",
+    "access_type": "levelup",
+    "created_at": 1790133406,
+    "expires_at": 1790219806,
+    "banned": false,
+    "auth_version": 1,
+    "level_up_ids": [
+      {
+        "uid": "6288868625",
+        "password": "shinchanboss_BYSTARGMR_hTSyZK4N"
+      },
+      {
+        "uid": "6288863854",
+        "password": "shinchanboss_BYSTARGMR_s1MaK3Z4"
+      },
+      {
+        "uid": "6288864043",
+        "password": "shinchanboss_BYSTARGMR_LrSApirc"
+      }
+    ]
+  },
+  {
+    "username": "Naruto",
+    "password_hash": "pbkdf2$210000$7fICfHzo1C7awIT6IBy2sw==$vMJqkiGLl+eWBVbDEkMKvIccTVPInsn4CnISzx4Gz9A=",
+    "role": "user",
+    "access_type": "levelup",
+    "created_at": 1790133417,
+    "expires_at": 1790219817,
+    "banned": false,
+    "auth_version": 1,
+    "level_up_ids": [
+      {
+        "token": "9b68b6bbb39c22e47bfcc8f6da247fa58824a6f8d7deefb65408a21ab8020abe"
+      }
+    ]
+  },
+  {
+    "username": "Frux",
+    "password_hash": "pbkdf2$210000$bzkqrzjiM/b2PVVQfvApQQ==$kG/0YsMnNIuyMbbwio8w3rdLyrSaA1BtYpHr9WCw87I=",
+    "role": "user",
+    "access_type": "levelup",
+    "created_at": 1790133850,
+    "expires_at": 1790220250,
+    "banned": false,
+    "auth_version": 1,
+    "level_up_ids": [
+      {
+        "uid": "7727624293",
+        "password": "7E7F28810A0BE454F74B951E56B8BCABE55484BB95643830CFE2E5467CE502B5"
+      },
+      {
+        "uid": "7903071330",
+        "password": "0615A644410FE3516A2A94EA02E1305C51998C0E87B44437E67A65B28987D9A6"
+      },
+      {
+        "uid": "7454511254",
+        "password": "ZUYFFTOOLS_A7414423DEE9AF9D"
+      }
+    ]
+  },
+  {
+    "username": "Senku",
+    "password_hash": "pbkdf2$210000$cnTWSswamoml29xkzigR2g==$bTe0Gbi1Rqz1gr2O5f+B90HTTQB+2qm0xnYli1ePzmU=",
+    "role": "user",
+    "access_type": "levelup",
+    "created_at": 1790134095,
+    "expires_at": 1792726095,
+    "banned": false,
+    "auth_version": 1,
+    "level_up_ids": [
+      {
+        "token": "13f5f6c5f138e566b2e593f88ab56234a316efd228da85e80e86f6ce682a82e8"
+      }
+    ]
+  },
+  {
+    "username": "Bishal",
+    "password_hash": "pbkdf2$210000$hYyFXoiD0X9f3uDyLSCftQ==$GZINcdMJORp1wWUwO2CpyCTyKeIUlI6s5NUrUly0Zjc=",
+    "role": "user",
+    "access_type": "levelup",
+    "slots": 1,
+    "created_at": 1790177508,
+    "expires_at": 1790263908,
+    "banned": true,
+    "auth_version": 1,
+    "level_up_ids": [
+      {
+        "uid": "4276222299",
+        "password": "Drax123_RRTTC_BY_SPIDEERIO_GAMING_IX7K8",
+        "mode": "battle_royale"
+      }
+    ]
+  }
+]
